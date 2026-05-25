@@ -367,23 +367,27 @@ Potential future improvements include:
 
 ## Project Overview Dashboard
 
-_Add screenshot here_
+<img width="1197" height="675" alt="Screenshot 2026-05-25 175029" src="https://github.com/user-attachments/assets/c381ce28-235e-4c7d-bcd1-e898ea17c39c" />
+
 
 ## Executive Overview Dashboard
 
-_Add screenshot here_
+<img width="1278" height="722" alt="Screenshot 2026-05-25 175115" src="https://github.com/user-attachments/assets/3c48b4ec-168a-4dc4-a226-b0a28a02e9da" />
+
 
 ## User Behavior Analytics Dashboard
 
-_Add screenshot here_
+<img width="1195" height="672" alt="Screenshot 2026-05-25 175138" src="https://github.com/user-attachments/assets/abb55ddb-05d0-4e92-9b63-63f6e47a3921" />
+
 
 ## Revenue & Conversion Dashboard
 
-_Add screenshot here_
+<img width="1196" height="671" alt="Screenshot 2026-05-25 175156" src="https://github.com/user-attachments/assets/6d90ab48-960a-48d1-93eb-8f2d8425f4e1" />
+
 
 ## Time Intelligence Dashboard
 
-_Add screenshot here_
+<img width="1196" height="667" alt="Screenshot 2026-05-25 175222" src="https://github.com/user-attachments/assets/28509c3e-8994-42f1-8ebc-7746f0f5188b" />
 
 ---
 
