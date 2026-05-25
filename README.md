@@ -402,21 +402,19 @@ SaaS-Product-Adoption-Funnel-Analytics/
 ├── SQL Queries/
 │   └── saas_funnel_analysis_queries.sql
 │
-├── PowerBI Dashboard/
+├── Dashboard/
 │   └── saas_product_funnel_analytics.pbix
 │
 ├── Screenshots/
-│   ├── dashboard_home.png
+│   ├── project_overview_dashboard.png
 │   ├── executive_overview_dashboard.png
 │   ├── user_behavior_dashboard.png
 │   ├── revenue_conversion_dashboard.png
 │   └── time_intelligence_dashboard.png
 │
-├── Architecture/
+├── Architecture_diagrams/
 │   ├── enterprise_workflow_architecture.png
-│   ├── analytics_workflow_methodology.png
-│   ├── dashboard_navigation_flow.png
-│   └── system_architecture_diagram.png
+│   └── dashboard_navigation_flow.png  
 │
 ├── Report/
 │   └──  SaaS_Product_Funnel_Analytics_Report.pdf
