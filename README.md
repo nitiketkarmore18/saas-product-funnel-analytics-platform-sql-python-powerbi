@@ -390,16 +390,38 @@ _Add screenshot here_
 # Project Structure
 
 ```text
-saas-product-funnel-analytics-platform/
+SaaS-Product-Adoption-Funnel-Analytics/
 │
-├── Dashboard/
 ├── Dataset/
-├── Python/
-├── SQL/
-├── Documentation/
+│   ├── Raw Dataset/
+│   │   └── saas_user_funnel_raw.csv
+│   │
+│   └── Cleaned Dataset/
+|        └── saas_user_funnel_cleaned.csv│   
+│
+├── SQL Queries/
+│   └── saas_funnel_analysis_queries.sql
+│
+├── PowerBI Dashboard/
+│   └── saas_product_funnel_analytics.pbix
+│
 ├── Screenshots/
-├── README.md
-└── requirements.txt
+│   ├── dashboard_home.png
+│   ├── executive_overview_dashboard.png
+│   ├── user_behavior_dashboard.png
+│   ├── revenue_conversion_dashboard.png
+│   └── time_intelligence_dashboard.png
+│
+├── Architecture/
+│   ├── enterprise_workflow_architecture.png
+│   ├── analytics_workflow_methodology.png
+│   ├── dashboard_navigation_flow.png
+│   └── system_architecture_diagram.png
+│
+├── Report/
+│   └──  SaaS_Product_Funnel_Analytics_Report.pdf
+│
+└── README.md
 ```
 
 ---
